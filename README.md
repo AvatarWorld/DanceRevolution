@@ -1,10 +1,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
-# Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning
+## Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning
 
-## Introduction
-PyTorch implementation of our model on music-to-dance generation task.
+### Introduction
+This repo is the PyTorch implementation of Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning. It can generate dance movement sequences from the input music clips.
 
-## Requirements
+### Paper 
+[Ruozi Huang], [Huang Hu], [Wei Wu](https://sites.google.com/view/wei-wu-homepage), [Kei Sawada](http://www.sp.nitech.ac.jp/~swdkei/index.html), [Mi Zhang](http://homepage.fudan.edu.cn/zhangmi/en)
+Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning
+[[arXiv]] | [[YouTube]](https://www.youtube.com/watch?v=P6yhfv3vpDI) [[Project]]
 
-## Citation
+### Requirements
+
+### Citation
