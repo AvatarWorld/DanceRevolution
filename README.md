@@ -9,7 +9,7 @@ This repo is the PyTorch implementation of Dance Revolution: Long Sequence Dance
 ### Paper 
 Ruozi Huang*, Huang Hu*, [Wei Wu](https://sites.google.com/view/wei-wu-homepage), [Kei Sawada](http://www.sp.nitech.ac.jp/~swdkei/index.html), [Mi Zhang](http://homepage.fudan.edu.cn/zhangmi/en) <br/>
 Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning <br/>
-[[arXiv]] [[YouTube]](https://www.youtube.com/watch?v=P6yhfv3vpDI) [[Project]]
+[arXiv] [[YouTube]](https://www.youtube.com/watch?v=P6yhfv3vpDI) [Project]
 
 ### Example Videos
 - Ballet
