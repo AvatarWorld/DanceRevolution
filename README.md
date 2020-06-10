@@ -3,6 +3,7 @@
 # Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning
 
 ## Introduction
+PyTorch implementation of our model on music-to-dance generation task.
 
 ## Requirements
 
