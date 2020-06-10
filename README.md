@@ -10,6 +10,15 @@ Ruozi Huang*, Huang Hu*, [Wei Wu](https://sites.google.com/view/wei-wu-homepage)
 Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning <br/>
 [[arXiv]] [[YouTube]](https://www.youtube.com/watch?v=P6yhfv3vpDI) [[Project]]
 
+### Example Videos
+- Ballet
+
+- Hiphop
+
+- Japanese Pop
+
+- Photo-Realisitc Videos by [vid2vid](https://github.com/NVIDIA/vid2vid)
+
 ### Requirements
 
 ### Citation
