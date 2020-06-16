@@ -23,7 +23,7 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 ### Requirements
 
 ### Citation
-If you find this work useful for your research, please cite the following paper, thanks. ^_^
+If you find this work useful for your research, please cite the following paper, thanks :-)
 ```
 @article{huang2020dance,
   title={Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning},
