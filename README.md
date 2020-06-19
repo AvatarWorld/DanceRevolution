@@ -11,22 +11,20 @@ Ruozi Huang*, [Huang Hu*](https://www.linkedin.com/in/tonyhu1993/), [Wei Wu](htt
 Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning <br/>
 [[arXiv]](https://arxiv.org/pdf/2006.06119.pdf) [[YouTube]](https://www.youtube.com/watch?v=P6yhfv3vpDI) [Project]
 
-### Example Videos
-- Ballet
-The generated skeleton dances of ballet style.
+### Generated Example Videos
+- Ballet style
 <p align='center'>
   <img src='imgs/ballet-1.gif' width='400'/>
   <img src='imgs/ballet-2.gif' width='400'/>
 </p>
 
-- Hiphop
-The generated skeleton dances of hiphop style.
+- Hiphop style
 <p align='center'>
   <img src='imgs/hiphop-1.gif' width='400'/>
   <img src='imgs/hiphop-2.gif' width='400'/>
 </p>
 
-- Japanese Pop
+- Japanese Pop style
 The generated skeleton dances of Japanese pop style.
 <p align='center'>
   <img src='imgs/manako-1.gif' width='400'/>
