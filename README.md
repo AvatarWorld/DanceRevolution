@@ -4,7 +4,7 @@
 The code and data are going through the internal review and will be released later!
 
 ### Introduction
-This repo is the PyTorch implementation of Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning. It can generate long dance sequences, e.g. about 1-minute length, from the input music clips.
+This repo is the PyTorch implementation of "Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning". It can generate long dance sequences, e.g. about 1-minute length, from the input music clips.
 
 ### Paper 
 Ruozi Huang*, Huang Hu*, [Wei Wu](https://sites.google.com/view/wei-wu-homepage), [Kei Sawada](http://www.sp.nitech.ac.jp/~swdkei/index.html), [Mi Zhang](http://homepage.fudan.edu.cn/zhangmi/en) <br/>
@@ -19,6 +19,8 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 - Japanese Pop
 
 - Photo-Realisitc Videos by [vid2vid](https://github.com/NVIDIA/vid2vid)
+
+- Driving 3D model by [3D human pose estimation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ci_Optimizing_Network_Structure_for_3D_Human_Pose_Estimation_ICCV_2019_paper.pdf)  and Unity animation.
 
 ### Requirements
 
