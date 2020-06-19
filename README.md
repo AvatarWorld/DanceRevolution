@@ -13,14 +13,25 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 
 ### Example Videos
 - Ballet
+The generated skeleton dances of ballet style.
 <p align='center'>
   <img src='imgs/ballet-1.gif' width='400'/>
   <img src='imgs/ballet-2.gif' width='400'/>
 </p>
 
 - Hiphop
+The generated skeleton dances of hiphop style.
+<p align='center'>
+  <img src='imgs/hiphop-1.gif' width='400'/>
+  <img src='imgs/hiphop-2.gif' width='400'/>
+</p>
 
 - Japanese Pop
+The generated skeleton dances of Japanese pop style.
+<p align='center'>
+  <img src='imgs/manako-1.gif' width='400'/>
+  <img src='imgs/manako-2.gif' width='400'/>
+</p>
 
 - Photo-Realisitc Videos by [vid2vid](https://github.com/NVIDIA/vid2vid)
 
