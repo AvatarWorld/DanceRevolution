@@ -32,10 +32,10 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 
 - Photo-Realisitc Videos by [vid2vid](https://github.com/NVIDIA/vid2vid)
 <p align='center'>
-  <img src='imgs/kazuna-crop-1.gif' width='400'/>
   <img src='imgs/skeleton-1.gif' width='400'/>
-  <img src='imgs/kazuna-crop-2.gif' width='400'/>
+  <img src='imgs/kazuna-crop-1.gif' width='400'/>
   <img src='imgs/skeleton-2.gif' width='400'/>
+  <img src='imgs/kazuna-crop-2.gif' width='400'/>
 </p>
 
 - Driving 3D model by applying [3D human pose estimation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ci_Optimizing_Network_Structure_for_3D_Human_Pose_Estimation_ICCV_2019_paper.pdf)  and Unity animation to generated skeleton dances.
