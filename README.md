@@ -20,14 +20,14 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 
 - Hiphop style
 <p align='center'>
-  <img src='imgs/hiphop-1.gif' width='350'/>
-  <img src='imgs/hiphop-2.gif' width='350'/>
+  <img src='imgs/hiphop-1.gif' width='400'/>
+  <img src='imgs/hiphop-2.gif' width='400'/>
 </p>
 
 - Japanese Pop style
 <p align='center'>
-  <img src='imgs/pop-1.gif' width='350'/>
-  <img src='imgs/pop-2.gif' width='350'/>
+  <img src='imgs/pop-1.gif' width='400'/>
+  <img src='imgs/pop-2.gif' width='400'/>
 </p>
 
 - Photo-Realisitc Videos by [vid2vid](https://github.com/NVIDIA/vid2vid)
