@@ -14,20 +14,20 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 ### Generated Example Videos
 - Ballet style
 <p align='center'>
-  <img src='imgs/ballet-1.gif' width='300'/>
-  <img src='imgs/ballet-2.gif' width='300'/>
+  <img src='imgs/ballet-1.gif' width='350'/>
+  <img src='imgs/ballet-2.gif' width='350'/>
 </p>
 
 - Hiphop style
 <p align='center'>
-  <img src='imgs/hiphop-1.gif' width='300'/>
-  <img src='imgs/hiphop-2.gif' width='300'/>
+  <img src='imgs/hiphop-1.gif' width='350'/>
+  <img src='imgs/hiphop-2.gif' width='350'/>
 </p>
 
 - Japanese Pop style
 <p align='center'>
-  <img src='imgs/pop-1.gif' width='300'/>
-  <img src='imgs/pop-2.gif' width='300'/>
+  <img src='imgs/pop-1.gif' width='350'/>
+  <img src='imgs/pop-2.gif' width='350'/>
 </p>
 
 - Photo-Realisitc Videos by [vid2vid](https://github.com/NVIDIA/vid2vid)
