@@ -12,6 +12,10 @@ Ruozi Huang*, [Huang Hu*](https://www.linkedin.com/in/tonyhu1993/), [Wei Wu](htt
 Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning <br/>
 [[arXiv]](https://arxiv.org/pdf/2006.06119.pdf) [[YouTube]](https://www.youtube.com/watch?v=P6yhfv3vpDI) [Project]
 
+### Requirements
+- Python 3.7
+- PyTorch 0.4.1
+
 ### Generated Example Videos
 - Ballet style
 <p align='center'>
@@ -42,7 +46,6 @@ We map the generated skeleton dances to the photo-realistic videos by [vid2vid](
 
 - Driving 3D model by applying [3D human pose estimation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ci_Optimizing_Network_Structure_for_3D_Human_Pose_Estimation_ICCV_2019_paper.pdf)  and Unity animation to generated skeleton dances.
 
-### Requirements
 
 ### Citation
 If you find this work useful for your research, please cite the following paper, thanks :-)
