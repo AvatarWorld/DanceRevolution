@@ -40,7 +40,7 @@ We map the generated skeleton dances to the photo-realistic videos by [vid2vid](
 <p align='center'>
   <img src='imgs/skeleton-1.gif' width='428'/>
   <img src='imgs/kazuna-crop-1.gif' width='400'/>
-  <img src='imgs/skeleton-2.gif' width='428'/>
+  <img src='imgs/skeleton-2.gif' width='429'/>
   <img src='imgs/kazuna-crop-2.gif' width='400'/>
 </p>
 
