@@ -25,7 +25,6 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 </p>
 
 - Japanese Pop style
-The generated skeleton dances of Japanese pop style.
 <p align='center'>
   <img src='imgs/manako-1.gif' width='400'/>
   <img src='imgs/manako-2.gif' width='400'/>
