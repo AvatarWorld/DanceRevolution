@@ -31,7 +31,7 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 </p>
 
 - Photo-Realisitc Videos by [vid2vid](https://github.com/NVIDIA/vid2vid) </br>
-We map the generated skeleton dances to the photo-realistic videos by [vid2vid](https://github.com/NVIDIA/vid2vid).
+We map the generated skeleton dances to the photo-realistic videos by [vid2vid](https://github.com/NVIDIA/vid2vid). Specifically, We record a random dance video of our team memebr to train the vid2vid model and feed it with the generated skeelton dances. Note that, our team member has authorized us the usage of her portrait in following demos. 
 <p align='center'>
   <img src='imgs/skeleton-1.gif' width='400'/>
   <img src='imgs/kazuna-crop-1.gif' width='400'/>
