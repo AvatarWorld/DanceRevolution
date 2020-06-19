@@ -13,10 +13,11 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 
 ### Example Videos
 - Ballet
-<p align='left'>
+<p align='center'>
   <img src='imgs/ballet-1.gif' width='400'/>
   <img src='imgs/ballet-2.gif' width='400'/>
 </p>
+
 - Hiphop
 
 - Japanese Pop
