@@ -13,6 +13,7 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 
 ### Example Videos
 - Ballet
+
 The generated skeleton dances of ballet style.
 <p align='center'>
   <img src='imgs/ballet-1.gif' width='400'/>
