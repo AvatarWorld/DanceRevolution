@@ -34,7 +34,7 @@ Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learn
 <p align='center'>
   <img src='imgs/kazuna-crop-1.gif' width='400'/>
   <img src='imgs/skeleton-1.gif' width='400'/>
-  <img src='imgs/kazuna-2.gif' width='400'/>
+  <img src='imgs/kazuna-crop-2.gif' width='400'/>
   <img src='imgs/skeleton-2.gif' width='400'/>
 </p>
 
