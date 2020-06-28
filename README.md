@@ -8,7 +8,7 @@ The code and data are going through the internal review and will be released lat
 This repo is the PyTorch implementation of "Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning". Our proposed approach significantly outperforms the existing methods in extensive experiments. It can generate long dance sequences, e.g. about <strong>1-minute length under 15 FPS</strong>, from the input music clips, which are smooth, natural-looking, diverse, style-consistent and beat-matching with the music.
 
 ### Paper 
-Ruozi Huang*, [Huang Hu*](https://www.linkedin.com/in/tonyhu1993/), [Wei Wu](https://sites.google.com/view/wei-wu-homepage), [Kei Sawada](http://www.sp.nitech.ac.jp/~swdkei/index.html), [Mi Zhang](http://homepage.fudan.edu.cn/zhangmi/en) <br/>
+Ruozi Huang*, [Huang Hu*](https://stonyhu.github.io/), [Wei Wu](https://sites.google.com/view/wei-wu-homepage), [Kei Sawada](http://www.sp.nitech.ac.jp/~swdkei/index.html), [Mi Zhang](http://homepage.fudan.edu.cn/zhangmi/en) <br/>
 Dance Revolution: Long Sequence Dance Generation with Music via Curriculum Learning <br/>
 [[arXiv]](https://arxiv.org/pdf/2006.06119.pdf) [[YouTube]](https://www.youtube.com/watch?v=P6yhfv3vpDI) [Project]
 
